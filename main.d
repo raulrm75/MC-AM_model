@@ -1,1 +1,0 @@
-main.dvi main.d : main.tex contents/abstract.tex.tex contents/section-introduction.tex.tex contents/section-membranecomputing.tex.tex contents/section-algebraictopology.tex.tex contents/section-MCAMmodel.tex.tex contents/section-examples.tex.tex contents/section-conclusionsandfuturework.tex.tex  biblio.bib   
