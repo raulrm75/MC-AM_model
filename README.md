@@ -9,4 +9,4 @@ Objectives
 
 Tittle
 ======
-*Bioinspired parallel algorithm to calculate an Algebraic Minimal model of a cubical complex.
+*Bioinspired parallel algorithm to calculate an Algebraic Minimal model of a cubical complex*
